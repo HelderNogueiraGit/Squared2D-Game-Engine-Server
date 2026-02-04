@@ -1,0 +1,1 @@
+{"name":"Scenes/Test.ws","objects":[{"name":"Texture Renderer","components":[{"type":1,"position":{"x":0,"y":0},"rotation":{"z":0},"scaling":{"x":1,"y":1}},{"type":4,"opacity":1,"layer":50,"radius":{"tl":0,"tr":0,"bl":0,"br":0},"sizeMode":"contain","offset":{"x":0,"y":0},"textureName":"Tile (4).png","textureSource":"Textures/Tile (4).png"}]}]}

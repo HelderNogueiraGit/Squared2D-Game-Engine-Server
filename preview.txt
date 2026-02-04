@@ -1,0 +1,26 @@
+Youtube Video: https://www.youtube.com/watch?v=8Yn8LUMfSB4 
+
+#15 - Squared2D: Renderizando objectos com texturas
+
+Release Notes:
+Added Texture Renderer Component;
+Fixed Small Bugs on Organizer - Deleting, Loading Images Failures;
+Organizer Now Support Uploading Multiple Files At Once;
+Components Code Have Been Refactured - Smaller and Preciser;
+Properties Editor Window Now Takes Care Of Handling Event Listeners    Of All Component Elements ;
+Properties Editor Window Bug Fix - Changing one property of an object    affected other, not anymore;
+Renderer Component: Implemented a Layer Property - Control What Appears Behind What;
+Renderer Component:  Opacity Control, Scaling Mode, Repeat Mode, Offset Control And Radius Adjustements;
+On New Project Created, Projects LIst is Updated Also.
+GameObjects Now Have A Config That Ca Be Used To Load Configurations At Instance Level;
+Duplicating GameObjects;
+Enabling and Disabling GameObjects;
+Statistics Update - GO Count, Components Count, Loops Count, Assets Count, Framerate, API Calls;
+
+Contact Me:
+GitHub: https://github.com/HelderNogueira00
+LinkedIn:     / helder-nogueira-073b8a37b   
+Instagram:   / heldernogueira00  
+Buy Me A Coffee: http://buymeacoffee.com/heldernogueira00
+
+Thank you :)

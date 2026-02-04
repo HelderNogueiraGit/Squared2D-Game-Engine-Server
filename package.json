@@ -1,0 +1,32 @@
+{
+  "name": "gameengine2d-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodemon ./src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./src/app.js"
+  },
+  "keywords": [],
+  "author": "Helder Nogueira",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "dotevn": "^0.0.1-security",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mariadb": "^3.4.5",
+    "multer": "^2.0.2",
+    "mysql2": "^3.15.2",
+    "nodemailer": "^7.0.10",
+    "react": "^19.2.0",
+    "sanitize-html": "^2.17.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/node": "^24.7.0",
+    "nodemon": "^3.1.10",
+    "typescript": "^5.9.3"
+  }
+}

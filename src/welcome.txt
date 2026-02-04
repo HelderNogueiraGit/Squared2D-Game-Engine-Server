@@ -1,0 +1,10 @@
+Hello username,
+
+Welcome to Squared2D! We’re excited to have you on board. To complete your account setup, please use the verification code below:
+Your verification code: codepin
+
+Enter this code in the website to verify your account. This code will expire in 10 minutes.
+If you didn’t request this, please ignore this message or contact our support team.
+
+Thank you,
+The Squared2D Team
